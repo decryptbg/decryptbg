@@ -1,6 +1,9 @@
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=decryptbg&show_icons=true&theme=tokyonight" />
 </a></p>
+
+## <picture><img src = "https://github.com/decryptbg/decryptbg/blob/main/pictures/about_me.gif" width = 50px></picture> **About me**
+
 <a position="absolute" align="center" href="https://www.github.com/decryptbg" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/github/followers/decryptbg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <!--
