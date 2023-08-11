@@ -5,6 +5,7 @@
 ##
 <picture>
 <img align="center" src="https://github.com/decryptbg/decryptbg/blob/main/pictures/about_me.gif" width=50px></picture>
+<br>
 
 <details>
   <summary>🧮 about</summary>
@@ -26,10 +27,16 @@
 </div>
 </details>
 
-
-- **Softwares and Tools**:
-
+<details>
+  <summary>Softwares and Tools</summary>
+<div>
+<samp>
+<!--- **Softwares and Tools**: -->
 	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+ </samp>
+</div>
+</details>
 
 
 - **Extras**:
