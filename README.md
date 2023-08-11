@@ -3,7 +3,10 @@
 </a></p>
 
 ##
-<picture><img align="center" src="https://github.com/decryptbg/decryptbg/blob/main/pictures/about_me.gif" width = 50px></picture>
+<!-- <picture> -->
+<img align="center" src="https://github.com/decryptbg/decryptbg/blob/main/pictures/about_me.gif" />
+
+<!-- width = 50px></picture> -->
 
 <details>
   <summary>🧮 about</summary>
