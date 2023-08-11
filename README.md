@@ -4,9 +4,25 @@
 
 ## <picture><img src = "https://github.com/decryptbg/decryptbg/blob/main/pictures/about_me.gif" width = 50px></picture> **About me**
 
-<a position="absolute" align="center" href="https://www.github.com/decryptbg" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/github/followers/decryptbg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p position="absolute" align="center"> <img src="https://komarev.com/ghpvc/?username=1decryptbg&label=Profile%20views&color=0e75b6&style=flat" alt="decryptbg" /> </p>
-
+<details>
+  <summary>🧮 about</summary>
+<div>
+<samp>
+<h2 align="center">About</h2>
+ <p align="center">
+  <a href="github.com/decryptbg" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=decryptbg&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
+  <a href="https://decryptbg.github.io/decryptbg/"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fdecryptbg.github.io%2Fdecryptbg%2F" height="25"
+     alt="website" /></a>
+  </p>
+  <p align="center">
+  </p>
+ </p>
+ </samp>
+</div>
+</details>
 - **Softwares and Tools**:
 
 	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
