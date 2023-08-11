@@ -56,7 +56,7 @@
 
 <br>
 
-## 😂 Here is a random joke that'll make you laugh!
+## 😂 Random joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <br>
