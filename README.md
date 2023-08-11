@@ -8,7 +8,7 @@
 <br>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>About</summary>
 <div>
 <samp>
 <h2 align="center">About</h2>
@@ -31,7 +31,7 @@
   <summary>Softwares and Tools</summary>
 <div>
 <samp>
-<!--- **Softwares and Tools**: -->
+
 	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
  </samp>
@@ -39,9 +39,19 @@
 </details>
 
 
-- **Extras**:
+<!-- - **Extras**: -->
+
+<details>
+  <summary>Extras</summary>
+<div>
+<samp>
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+ </samp>
+</div>
+</details>
+
 
 Last Edited on: 12.08.2023
 <!--
