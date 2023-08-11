@@ -21,7 +21,6 @@
   <a href="https://decrypt.bg"><img align="center" 
      src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://img.shields.io/website.svg?url=http%3A%2F%2Fdecrypt.bg%2Ftemp" height="25"
      alt="website" /></a>
-	 <a> <img src="https://img.shields.io/github/downloads/decryptbg/decryptbg/total.svg" /></a>
   </p>
   <p align="center">
   </p>
@@ -50,7 +49,7 @@
 			<a> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 			<a> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
 			<a> <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" /></a>
-			<a> <img src=https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /></a>
+			<a> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /></a>
 			
 		</samp>
 	</div>
