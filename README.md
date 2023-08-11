@@ -5,6 +5,8 @@
 ##
 <picture>
 <img align="center" src="https://github.com/decryptbg/decryptbg/blob/main/pictures/about_me.gif" width=50px></picture>
+
+<br>
 <br>
 
 <details>
@@ -32,25 +34,21 @@
 <div>
 <samp>
     <a> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-
  </samp>
 </div>
 </details>
-
 
 <!-- - **Extras**: -->
-
 <details>
   <summary>Extras</summary>
-<div>
-<samp>
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
- </samp>
-</div>
+	<div>
+		<samp>
+			<a> <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+		</samp>
+	</div>
 </details>
 
+<br>
 
 Last Edited on: 12.08.2023
 <!--
