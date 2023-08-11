@@ -14,7 +14,7 @@
      src="https://komarev.com/ghpvc/?username=decryptbg&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   <a href="https://decrypt.bg"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fdecrypt.bg%2Fdecryptbg%2F" height="25"
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://img.shields.io/website.svg?url=http%3A%2F%2Fdecrypt.bg%2Ftemp" height="25"
      alt="website" /></a>
   </p>
   <p align="center">
