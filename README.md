@@ -6,6 +6,19 @@
 
 <a position="absolute" align="center" href="https://www.github.com/decryptbg" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/github/followers/decryptbg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<br>
+
+- **Softwares and Tools**:
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br>
+
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+Last Edited on: 12.08.2023
 <!--
 **decryptbg/decryptbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
