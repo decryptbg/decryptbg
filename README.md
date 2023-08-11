@@ -2,7 +2,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=decryptbg&show_icons=true&theme=tokyonight" />
 </a></p>
 
-## <picture><img src = "https://github.com/decryptbg/decryptbg/blob/main/pictures/about_me.gif" width = 50px></picture> **About me**
+## <picture>
+<img src = "https://github.com/decryptbg/decryptbg/blob/main/pictures/about_me.gif" width = 50px></picture> **About me**
 
 <details>
   <summary>🧮 about</summary>
