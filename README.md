@@ -60,7 +60,9 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <br>
+ <p align="center">
 Last Edited on: 12.08.2023
+ </p>
 <!--
 **decryptbg/decryptbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
