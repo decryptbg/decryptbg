@@ -4,7 +4,8 @@
 
 ## <picture><img src = "https://github.com/decryptbg/decryptbg/blob/main/pictures/about_me.gif" width = 50px></picture> **About me**
 
-<a position="absolute" align="center" href="https://www.github.com/decryptbg" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/github/followers/decryptbg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a position="absolute"> <img src="https://komarev.com/ghpvc/?username=1decryptbg&label=Profile%20views&color=0e75b6&style=flat" alt="decryptbg" /> </a>
+<a position="absolute" align="center" href="https://www.github.com/decryptbg" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/github/followers/decryptbg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a position="absolute" align="center"> <img src="https://komarev.com/ghpvc/?username=1decryptbg&label=Profile%20views&color=0e75b6&style=flat" alt="decryptbg" /> </a>
 
 - **Softwares and Tools**:
 
