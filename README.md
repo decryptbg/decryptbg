@@ -2,6 +2,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=decryptbg&show_icons=true&theme=tokyonight" />
 </a></p>
 
+<p align="center">
+<a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green />
+</a></p>
+
 ##
 <picture>
 <img align="center" src="https://github.com/decryptbg/decryptbg/blob/main/pictures/about_me.gif" width=50px></picture>
