@@ -31,8 +31,7 @@
   <summary>Softwares and Tools</summary>
 <div>
 <samp>
-
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <a> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 
  </samp>
 </div>
