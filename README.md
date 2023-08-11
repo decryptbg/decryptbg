@@ -3,7 +3,7 @@
 </a></p>
 
 <p align="center">
-<a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green />
+<a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decryptbg&theme=blue-green />
 </a></p>
 
 ##
