@@ -13,8 +13,8 @@
   <a href="github.com/decryptbg" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=decryptbg&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-  <a href="https://decryptbg.github.io/decryptbg/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fdecryptbg.github.io%2Fdecryptbg%2F" height="25"
+  <a href="https://decrypt.bg"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fdecrypt.bg%2Fdecryptbg%2F" height="25"
      alt="website" /></a>
   </p>
   <p align="center">
@@ -23,6 +23,8 @@
  </samp>
 </div>
 </details>
+
+
 - **Softwares and Tools**:
 
 	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
