@@ -59,11 +59,6 @@
 ## 😂 Random joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<br>
- <p align="center">
-☕ https://buymeacoffee.com/ivolyubenov
- </p>
- <br>
 <!-- <p align="center">
 Last Edited on: 12.08.2023
  </p> -->
