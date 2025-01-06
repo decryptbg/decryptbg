@@ -61,7 +61,7 @@
 
 <br>
  <p align="center">
-https://buymeacoffee.com/ivolyubenov
+☕ https://buymeacoffee.com/ivolyubenov
  </p>
  <br>
 <!-- <p align="center">
